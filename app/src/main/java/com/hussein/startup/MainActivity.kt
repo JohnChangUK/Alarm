@@ -12,6 +12,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun BuSetTime(view:View) {
-        
+
     }
 }
