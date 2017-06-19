@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=/Users/johnchang/Documents/androidProjects/Alarm/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar
+FILE_HASH=27b9205962c3ed9c005403acc1c43c719132a1b7
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true
